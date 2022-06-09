@@ -1,3 +1,4 @@
+// ## usecConfirm 은 클릭했을때 허락창을 띄우고 결과 값에따라 함수를 실행시킴.
 
 const useConfirm = (message = "", callback, refuse) => {
   console.log("함수");// 이거는 처음렌더링 될때 함수도 랜더링 되면서 실행되는듯;
