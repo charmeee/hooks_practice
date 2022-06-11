@@ -1,3 +1,5 @@
+//##
+
 import { useEffect } from "react";
 import "./styles.css";
 
@@ -32,8 +34,6 @@ export default function App() {
   return (
     <div className="App">
       <h1>hi</h1>
-      {/* <button onClick={enablePrevent}>lalal</button>
-      <button onClick={disablePrevent}>lalal</button> */}
     </div>
   );
 }
